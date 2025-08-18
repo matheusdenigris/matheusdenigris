@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdenigris.dev@gmail.com?subject=Contato%20via%20perfil%20GitHub)
 
 ### About
-Full-Stack developer. Graduated in science and technology at federal university of ABC and currently studying Software Engineering at FIAP.
+Full-Stack Software Engineering. Graduated in science and technology at federal university of ABC and currently studying Software Engineering at FIAP.
 
 ### Technologies Stack
 
