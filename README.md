@@ -67,8 +67,6 @@ Truly **full-stack**, from the database to the last pixel, with **AI** where it 
 | Repository | About |
 |---|---|
 | [**armstrong-maps**](https://github.com/matheusdenigris/armstrong-maps) | A layered map of Mars for planning and following walks on the surface. React Native app for the NASA Space Apps Challenge 2026. |
-| [**ecommerce**](https://github.com/matheusdenigris/ecommerce) | Next.js App Router store: React Server Components, streaming SSR, data fetching, cache and memoization. |
-| [**SmarttBotChallenge**](https://github.com/matheusdenigris/SmarttBotChallenge) | Dashboard for trading bots on the stock market: running bots, operations summary and bot setup. |
 
 ## — 05 / Stack
 
