@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://matheusdenigris.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-matheusdenigris.com-E5322D?style=flat-square&labelColor=0A0A0A"></a>
-  <a href="https://matheusdenigris.com/cv/Matheus-De-Nigris-CV.pdf"><img alt="Download CV" src="https://img.shields.io/badge/CV-Download_PDF-F2F2F0?style=flat-square&labelColor=0A0A0A"></a>
   <a href="https://www.linkedin.com/in/matheus-de-nigris-a89618269/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-F2F2F0?style=flat-square&labelColor=0A0A0A"></a>
   <a href="mailto:matheusdenigris.dev@gmail.com?subject=Contact%20via%20GitHub"><img alt="Email" src="https://img.shields.io/badge/Email-Say_hi-F2F2F0?style=flat-square&labelColor=0A0A0A"></a>
   <a href="https://www.youtube.com/@matheusdenigris"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Watch-F2F2F0?style=flat-square&labelColor=0A0A0A"></a>
@@ -16,7 +15,8 @@ I write **software** the way you build a **product**: start from the problem, me
 
 Truly **full-stack**, from the database to the last pixel, with **AI** where it solves things and not where it decorates. The result is code that holds up as it grows and products people actually use.
 
-- 🏢 **Full-Stack Software Engineer at IT Works** since 2023, lead developer across five production applications for tax compliance and fiscal document management.
+- ✈️ **Full-Stack Engineer at KODES Tech**, placed with **Kontik**, a client in the aviation sector.
+- 🏢 Previously **3 years at IT Works** (2023 – 2026), from front-end to full-stack, as lead developer across five production applications for tax compliance and fiscal document management.
 - 🚀 **Founder of [Commitfolio](https://commitfolio.com)**, a SaaS that turns your GitHub commits into an ATS-safe résumé.
 - 🎓 **Software Engineering at FIAP** (2024 – 2027), after a Science & Technology foundation at UFABC.
 - 🌎 Based in **São Paulo, Brazil**. Working remotely with clients worldwide in **Portuguese, English and Spanish**.
@@ -55,7 +55,7 @@ Truly **full-stack**, from the database to the last pixel, with **AI** where it 
 
 | Project | Where | What I did |
 |---|---|---|
-| **Tax intelligence platform** | IT Works | Web platform + mobile app for tax compliance, as lead developer. |
+| **Tax intelligence platform** | IT Works · 2023 – 2026 | Web platform + mobile app for tax compliance, as lead developer. |
 | **Internal operations tool** | IT Works | Mobile-first tool with dashboards and observability. |
 | **Legacy product migration** | IT Works | Moved a legacy product to the web. |
 | **Landing pages with checkout** | IT Works | Sales pages with checkout running on AWS. |
@@ -103,12 +103,14 @@ Truly **full-stack**, from the database to the last pixel, with **AI** where it 
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-141414?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-141414?style=flat-square&logo=docker&logoColor=F2F2F0)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-141414?style=flat-square&logo=kubernetes&logoColor=F2F2F0)
+![Oracle Cloud (OCI)](https://img.shields.io/badge/Oracle_Cloud_(OCI)-141414?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-141414?style=flat-square&logo=git&logoColor=F2F2F0)
 
 **Data**
 
 ![SQL](https://img.shields.io/badge/SQL-141414?style=flat-square)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-141414?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=F2F2F0)
 ![Oracle DBA](https://img.shields.io/badge/Oracle_DBA-141414?style=flat-square)
 ![NoSQL](https://img.shields.io/badge/NoSQL-141414?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-141414?style=flat-square&logo=mongodb&logoColor=F2F2F0)
@@ -123,7 +125,8 @@ Truly **full-stack**, from the database to the last pixel, with **AI** where it 
 
 | When | | |
 |---|---|---|
-| **2023 — now** | 💼 **Full-Stack Software Engineer** · IT Works · Remote | Lead developer across five production applications for tax compliance and fiscal document management for Brazilian companies.<br>`React` `React Native` `Next.js` `Angular` `TypeScript` `C#/.NET` `Node.js` `SQL Server` `AWS` |
+| **2026 — now** | ✈️ **Full-Stack Engineer** · KODES Tech · Client: Kontik · São Paulo | Through the KODES Tech consultancy, I work as a full-stack engineer inside the team at Kontik, a company in the aviation sector. |
+| **2023 — 2026** | 💼 **Full-Stack Software Engineer** · IT Works · Remote<br><sub>Front-end (2023 – 2024) → Full-stack (2024 – 2026)</sub> | Lead developer across five production applications for tax compliance and fiscal document management for Brazilian companies.<br>`React` `React Native` `Next.js` `Angular` `TypeScript` `C#/.NET` `Node.js` `SQL Server` `AWS` |
 | **2024 — 2027** | 🎓 **B.Sc. Software Engineering** · FIAP | In progress. |
 | **2024** | 🏆 **Enterprise Challenge winner** · FIAP & Softtek | Winner of the Enterprise Challenge competition organized by FIAP and Softtek. |
 | **2022 — 2023** | 🎓 **Science & Technology** · UFABC | Federal University of ABC. |
