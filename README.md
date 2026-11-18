@@ -15,7 +15,7 @@ I write **software** the way you build a **product**: start from the problem, me
 
 Truly **full-stack**, from the database to the last pixel, with **AI** where it solves things and not where it decorates. The result is code that holds up as it grows and products people actually use.
 
-- ✈️ **Full-Stack Engineer at KODES Tech**, placed with **Kontik**, a client in the aviation sector.
+- ✈️ **Full-Stack Software Engineer at KODES Tech**, placed with **Kontik**, a client in the aviation sector.
 - 🏢 Previously **3 years at IT Works** (2023 – 2026), from front-end to full-stack, as lead developer across five production applications for tax compliance and fiscal document management.
 - 🚀 **Founder of [Commitfolio](https://commitfolio.com)**, a SaaS that turns your GitHub commits into an ATS-safe résumé.
 - 🎓 **Software Engineering at FIAP** (2024 – 2027), after a Science & Technology foundation at UFABC.
@@ -125,7 +125,7 @@ Truly **full-stack**, from the database to the last pixel, with **AI** where it 
 
 | When | | |
 |---|---|---|
-| **2026 — now** | ✈️ **Full-Stack Engineer** · KODES Tech · Client: Kontik · São Paulo | Through the KODES Tech consultancy, I work as a full-stack engineer inside the team at Kontik, a company in the aviation sector. |
+| **2026 — now** | ✈️ **Full-Stack Software Engineer** · KODES Tech · Client: Kontik · São Paulo | Through the KODES Tech consultancy, I work as a full-stack engineer inside the team at Kontik, a company in the aviation sector. |
 | **2023 — 2026** | 💼 **Full-Stack Software Engineer** · IT Works · Remote<br><sub>Front-end (2023 – 2024) → Full-stack (2024 – 2026)</sub> | Lead developer across five production applications for tax compliance and fiscal document management for Brazilian companies.<br>`React` `React Native` `Next.js` `Angular` `TypeScript` `C#/.NET` `Node.js` `SQL Server` `AWS` |
 | **2024 — 2027** | 🎓 **B.Sc. Software Engineering** · FIAP | In progress. |
 | **2024** | 🏆 **Enterprise Challenge winner** · FIAP & Softtek | Winner of the Enterprise Challenge competition organized by FIAP and Softtek. |
