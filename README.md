@@ -61,6 +61,7 @@ Truly **full-stack**, from the database to the last pixel, with **AI** where it 
 | **Landing pages with checkout** | IT Works | Sales pages with checkout running on AWS. |
 | [**Grupo SERCA**](https://www.gruposerca.com.br) | Freelance · International trade | Institutional landing page in PT / EN / ES. |
 | [**À Medida Labs**](https://www.amedidalabs.pt) | Freelance · Automation & AI · Portugal | International project: landing page in European Portuguese for the Portuguese market. |
+| [**derma.supply**](https://dermasupply.com.br) | Freelance · Dermocosmetics | Mobile-first landing page with WhatsApp sales, logo and identity, and SEO with one page per product. |
 
 **On GitHub**
 
